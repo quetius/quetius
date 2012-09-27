@@ -1,13 +1,2 @@
-hola soy victor
-
-<<<<<<< HEAD
-hola soy otra vez victor...
-
-
-Esto es otra prueba?
-=======
-
-Y yo soy Andres....
->>>>>>> aecf45f4f789465244cfb6b071346986a07e0b4a
-
-caca de vaca
+hola me llamo Victor primera linea
+hola me llamo Victor segunda linea
